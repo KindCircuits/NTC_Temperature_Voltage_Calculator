@@ -30,3 +30,6 @@ py NTC_Temperature_Voltage_Calculator_v4.py
 The CSV contains 201 samples with numeric-only data cells: temperature, NTC-amplifier ADC code, and NTC-amplifier voltage. Units appear only in the column headers.
 
 > Amplifier outputs are limited to the configured reference voltage before plotting and ADC conversion.
+>
+> <img width="1147" height="926" alt="Screenshot 2026-08-21 003316" src="https://github.com/user-attachments/assets/5c7e4477-a393-464c-9454-efb892028913" />
+
