@@ -31,5 +31,5 @@ The CSV contains 201 samples with numeric-only data cells: temperature, NTC-ampl
 
 > Amplifier outputs are limited to the configured reference voltage before plotting and ADC conversion.
 >
-> <img width="1147" height="926" alt="Screenshot 2026-08-21 003316" src="https://github.com/user-attachments/assets/5c7e4477-a393-464c-9454-efb892028913" />
+<img width="1138" height="926" alt="Screenshot 2026-08-21 003316" src="https://github.com/user-attachments/assets/412c4fef-fe49-4799-9c58-650cb54804ed" />
 
